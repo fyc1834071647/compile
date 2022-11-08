@@ -1,0 +1,12 @@
+int a;
+a = !a;
+int k;
+k + 1;
+int m()
+{
+    int b = 1;
+    return b;
+}
+int main(){
+    m(a, 1+1);
+}
