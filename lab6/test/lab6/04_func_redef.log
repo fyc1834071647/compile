@@ -1,0 +1,4 @@
+test/lab6/04_func_redef.ll:13:12: error: invalid redefinition of function 'func'
+define i32 @func(i32 %t26, i32 %t29, i32 %t32){
+           ^
+1 error generated.

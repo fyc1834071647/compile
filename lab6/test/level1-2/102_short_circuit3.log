@@ -1,0 +1,4 @@
+test/level1-2/102_short_circuit3.ll:47:1: error: expected instruction opcode
+B114:                                   ; preds = %B113
+^
+1 error generated.

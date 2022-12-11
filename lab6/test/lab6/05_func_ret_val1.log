@@ -1,0 +1,4 @@
+test/lab6/05_func_ret_val1.ll:14:7: error: value doesn't match function result type 'void'
+  ret i32 %t4
+      ^
+1 error generated.

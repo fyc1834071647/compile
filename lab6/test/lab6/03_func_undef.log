@@ -1,0 +1,4 @@
+test/lab6/03_func_undef.ll:23:19: error: '@func' defined with type 'i32 (i32, i32, i32)*' but expected 'i32 (i32)*'
+  %t20 = call i32 @func(i32 1)
+                  ^
+1 error generated.

@@ -1,0 +1,4 @@
+test/level1-2/029_if_test2.ll:50:18: error: '%t26' defined with type 'i32' but expected 'i1'
+  %t46 = zext i1 %t26 to i32
+                 ^
+1 error generated.
